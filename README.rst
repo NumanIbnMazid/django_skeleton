@@ -1,1 +1,2 @@
-# Simple Django Project Skeleton
+Simple Django Skeleton Project
+=======================
